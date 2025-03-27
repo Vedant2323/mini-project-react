@@ -1,8 +1,25 @@
-# React + Vite
+Weather Widget
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Overview
 
-Currently, two official plugins are available:
+The Weather Widget is a simple and user-friendly React application that provides real-time weather information. It fetches weather data and displays key parameters such as temperature, humidity, and weather conditions.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+
+1.Displays the current temperature.
+
+2.Shows humidity levels.
+
+3.Provides maximum and minimum temperature.
+
+4.Describes the weather condition (e.g., clear sky, cloudy, etc.).
+
+5.Indicates how the weather feels like.
+
+Technologies Used :-
+
+1.React.js
+
+2.Material UI (if used for styling)
+
+3.OpenWeather API (or any weather API used)
